@@ -1,9 +1,5 @@
 from multiprocessing import Pool, cpu_count
-import logging
 from time import time
-import asyncio
-
-#asyncio.run()
 
 #def factorize(*numbers):
 #    result = []
